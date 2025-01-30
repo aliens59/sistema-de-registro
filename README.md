@@ -7,3 +7,5 @@ para ejecutar el sistema, debes poner:
 - """install npm react"""
 - 
 - actualizando el archivo read
+
+- actualiza el red 2
